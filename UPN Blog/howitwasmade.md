@@ -1,0 +1,2 @@
+# How the UPN Blog was created
+The UPN Blog was created using [Netlify CMS](https://www.netlifycms.org/). We chose this Content Management System (CMS) because it allowed users to create, edit, and delete blog posts from the actual website rather than a third-party website. For example, we're able to edit posts from https://blog.upcountypreventionnetwork.org/admin rather than another website.
