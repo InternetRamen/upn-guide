@@ -1,6 +1,8 @@
 # How to create a new post
 In this page, I'll guide you through create a new blog post using [Netlify CMS](https://www.netlifycms.org/).
 
+First, log in through https://blog.upcountypreventionnetwork.org/admin
+
 After logging in, you should see a screen similar to this screen.
 
 ![](/static/chrome_yj1fRizI9g.png)
@@ -23,3 +25,4 @@ Click "Publish Now".
 ![](/static/chrome_K5PdUM9Ved.png)
 
 The website should update with the new post within a few minutes.
+https://blog.upcountypreventionnetwork.org/
